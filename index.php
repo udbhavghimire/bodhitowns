@@ -113,7 +113,7 @@
                 <div >
                 <h1 class="main-titlee pb-0  mb-0 mt-2 mt-md-0" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">Bodhi Towns</span>
                 </h1>
-                <p class=" headline-textt mt-0 pt-3 text-white" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">Coming Soon - Freehold Townhomes in Brampton <br>NOW SELLING</p>
+                <p class=" headline-textt mt-0 pt-1 text-white" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">NOW SELLING - Freehold Townhomes in Brampton</p>
                 </div>
             </div>
         </div>
@@ -121,7 +121,7 @@
 
     <section class=" py-md-5" id = "about">
         <div class="container mt-5" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
-            <h2 class=" main-title pt-md-5 pb-5  fw-bold ps-3 ps-md-0 d-flex justify-content-center d-flex justify-content-center align-items-center text-center">About Bodhi Towns</h2>
+            <h2 class=" main-title pt-md-5 pb-5  fw-bold ps-3 ps-md-0 d-flex justify-content-center align-items-center text-center fs-1">About Bodhi Towns</h2>
             <p class=" pb-3 px-3 textt d-flex justify-content-center align-items-center">Bodhi Towns in Brampton is an upcoming pre construction townhouse development in 130 Nexus Ave, Brampton, ON by Country Wide Homes. The community is expected to complete in 2025.
             <div class="list  textt  pt-2 px-3">
                                 <p class="mybot pb-md-0 pb-0 ">
