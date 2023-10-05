@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home4/shrutidu/bodhitownhomes.com/
+    - export DEPLOYPATH=/home/bramp135/bodhitownhomes.com/
     - /bin/cp -r * $DEPLOYPATH
