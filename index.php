@@ -19,7 +19,7 @@
 
     <title> Bodhi Towns - Brampton | Register Today</title>
 
-    <meta name="title" content="Bodhi Towns - Brampton | townhouse - Register Today">
+    <meta name="title" content="Bodhi Towns - Brampton | Register Today">
     <meta name="description" content="Bodhi Towns by Country Wide Homes is an upcoming pre construction townhouse development in 130 Nexus Ave, Brampton, ON.">
     <meta name="keywords" content="Bodhi Towns Brampton , Bodhi Towns, Bodhi Towns Brampton, Country Wide Homes, Pre construction in brampton,  townhouse in Brampton, Pre consruction towns brampton">
     <meta name="robots" content="index, follow">
