@@ -277,10 +277,10 @@ This location is in Brampton. Nearby parks include Mount Pleasant Village Square
         <div class="pt-5 " id="Contact">
             <div class="pt-5 mt-5 " data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
                 <div class="row mx-0 " >
-                    <!-- <div class="text-center pt-3 ">
-                        <img src="images/empire-logo.png " class="img-fluid regoimg " alt="Empire Communities Logo ">
-                    </div> -->
-                    <h6 class="text-center fs-1 fw-bold pt-3 register " > Register today</h6>
+                    <div class="text-center pt-3 ">
+                        <img src="images/bodhi-towns-logo-black.png" class="img-fluid regoimg " alt="Bodhi-towns-logo">
+                    </div>
+                    <h6 class="text-center fs-1 fw-bold pt-1 register " > Register today</h6>
                     <div class="registertext px-4 d-flex justify-content-center align-items-center text-center ">
                         <p>Register today and get the first update on Bodhi Towns coming up in Brampton
                         </p>
@@ -349,7 +349,7 @@ This location is in Brampton. Nearby parks include Mount Pleasant Village Square
                         <h2 class="navbar-brand-foot fs-4"><a href="https://homebaba.ca/brampton/bodhi-towns" target="_blank" class = "text-dark text-decoration-none">Bodhi Towns </a></h2>
                     </p>
                     <span class=" mx-widthh">
-                    We do not represent the builder. Information provided on this website is gathered from publicly available websites. The information might not be updated and could include inaccurate or outdated information such as location, pricing, availability, floor plans etc. The logos, images and renderings might be protected by copyright owned by the builders.  To learn more about Bodhi Towns Brampton, please contact the builder directly. </span>
+                    We do not represent the builder. Information provided on this website is gathered from publicly available websites. The information might not be updated and could include inaccurate or outdated information such as location, pricing, availability, floor plans etc. The logos, images and renderings might be protected by copyright owned by the builders.. Not intended to solicit those under contract with another brokerage. All inquiries will go to Sadhana Sangli, Sales Representative from Elixir Real Estate Brokerage. Email : sadhana@elixirrealestate.ca</span>
                     <div class="list pt-md-5 pt-3 d-md-block d-none ">
                         <p class=" ">
                             Website designed by <a href="https://www.sixdesign.ca/ " target="_blank " class="text-dark text-decoration-none "><strong>SixDesign.</strong> </a>
@@ -430,10 +430,10 @@ This location is in Brampton. Nearby parks include Mount Pleasant Village Square
     <script type="text/javascript" async>
        silverBox({
 	title: {
-		text: "Success",
+		text: "Thank you!",
 		alertIcon: "success",
 	},
-	text: "Your Message has been received.\n We'll get back to you soon.",
+	text: "We will reach out to you soon.",
 });
     </script>
     <?php
@@ -447,10 +447,10 @@ This location is in Brampton. Nearby parks include Mount Pleasant Village Square
     <script type="text/javascript" async>
            silverBox({
 	title: {
-		text: "Error",
+		text: "Oops...",
 		alertIcon: "error",
 	},
-	text: "Your Message has not been received.",
+	text: "Something went wrong, message not sent!.",
 });
     </script>
     <?php

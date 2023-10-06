@@ -20,6 +20,7 @@ $mail->SMTPSecure = 'tls'; // Enable TLS encryption, `ssl` also accepted
 $mail->Port = 587; // TCP port to connect to
 
 $mail->setFrom('info@bodhitownhomes.com', $_POST['name']);
+$mail->addAddress('sadhana@elixirrealestate.ca');
 $mail->addAddress('milan@homebaba.ca');
 
 
