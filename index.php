@@ -134,7 +134,7 @@
                                 Occupancy: 2025
                                 </p>
                                 <p class="mybot pb-md-0 pb-0 ">
-                                Pricing : From $1.1M - $1.5M
+                                Pricing : Not available at the moment.
                                 </p>
 
 </div>
